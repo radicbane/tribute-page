@@ -17,22 +17,22 @@ height: 450px;
 }
 
 .left-naslov{
-position: absolute;
-left: 80px;
-top: 150px;
-font-family: 'Gluten', cursive;
-font-size: 5em;
-color: white;
-}
-
-.right-naslov{
     position: absolute;
-    right: 50px;
+    left: 80px;
     top: 150px;
     font-family: 'Gluten', cursive;
     font-size: 5em;
     color: white;
-}
+    }
+    
+    .right-naslov{
+        position: absolute;
+        right: 50px;
+        top: 150px;
+        font-family: 'Gluten', cursive;
+        font-size: 5em;
+        color: white;
+    }
 
 
 .flex {
